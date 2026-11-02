@@ -15,6 +15,6 @@ Burp Suite, Metasploit, Nmap (incl. NSE), Nessus, Wireshark, Kali Linux, VMware 
 
 ## Contact
 - Email: joshong267@gmail.com
-- LinkedIn: add link here
+- LinkedIn: www.linkedin.com/in/yiu-kiat-ong-b57266375
 
 > All work here was done in isolated lab environments or on platforms that permit it, for educational purposes only.
