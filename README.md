@@ -6,6 +6,7 @@ Projects and writeups by **Yiu Kiat Ong**, Diploma in Cybersecurity & Digital Fo
 
 ## Labs
 - [Greybox Penetration Test: OpenTrolley Web/File Server](labs/opentrolley-greybox-pentest.md): Nmap enumeration and an anonymous FTP compromise in an isolated lab.
+- [EternalBlue (MS17-010) Exploitation: OpenTrolley Follow-Up](labs/eternalblue-ms17-010-exploitation.md): SMB enumeration, Nessus vulnerability scanning and Metasploit/Meterpreter exploitation of an unpatched Windows workstation, including token impersonation via `incognito`.
 
 ## CTF Writeups
 Coming soon.
